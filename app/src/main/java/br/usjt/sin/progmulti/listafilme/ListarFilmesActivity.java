@@ -1,5 +1,10 @@
 package br.usjt.sin.progmulti.listafilme;
 
+/*
+ *Marcela Menezes Pinto - 816119987
+*/ 
+
+
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
